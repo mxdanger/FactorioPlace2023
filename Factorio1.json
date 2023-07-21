@@ -1,0 +1,20 @@
+{
+  "contact": "https://discord.gg/QvqVnc2awf",
+  "templates": [
+    {
+      "name": "Factorio",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131764537964634253/1131775912925470790/Fac_Has.png"
+      ],
+      "x": 530,
+      "y": 859
+    }
+  ],
+  "whitelist": [
+    {
+      "name": "Genshin Impact",
+      "url": "https://gist.githubusercontent.com/LeftHandedBread/1619ae0c676814bacb7a2fab0a93d3c7/raw"
+    }
+  ],
+  "blacklist": []
+}
