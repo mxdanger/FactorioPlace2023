@@ -4,7 +4,7 @@
     {
       "name": "Factorio",
       "sources": [
-        "https://cdn.discordapp.com/attachments/1131764537964634253/1131775912925470790/Fac_Has.png"
+        "https://cdn.discordapp.com/attachments/1131655435473141911/1131788130412920932/Small_Ftro_ttl_4.0.png"
       ],
       "x": 530,
       "y": 859
@@ -14,6 +14,10 @@
     {
       "name": "Genshin Impact",
       "url": "https://gist.githubusercontent.com/LeftHandedBread/1619ae0c676814bacb7a2fab0a93d3c7/raw"
+    },
+    {
+      "name": "Stardew Valley",
+      "url": "https://raw.githubusercontent.com/InfiniteBread15/Place2023/main/stardew"
     }
   ],
   "blacklist": []
