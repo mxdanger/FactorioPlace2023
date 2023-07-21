@@ -10,15 +10,6 @@
       "y": 859
     }
   ],
-  "whitelist": [
-    {
-      "name": "Genshin Impact",
-      "url": "https://gist.githubusercontent.com/LeftHandedBread/1619ae0c676814bacb7a2fab0a93d3c7/raw"
-    },
-    {
-      "name": "Stardew Valley",
-      "url": "https://raw.githubusercontent.com/InfiniteBread15/Place2023/main/stardew"
-    }
-  ],
+  "whitelist": [],
   "blacklist": []
 }
